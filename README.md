@@ -4,7 +4,7 @@ Check out my GitHub repository for a Google Drive clone! This project is a testa
 
 A Google Drive clone project built using HTML and CSS.
 
-# Table of contents
+##Table of contents
 * Installation
 * Usage
 * Technologies Used
@@ -38,7 +38,7 @@ The Google Drive Clone Project is built using the following technologies :-
 ## Google Drive Clone 
 - Created with Sandbox
 
-# Contributions 
+## Contributions 
 - Contributions to this project are Welcome. If you encounter any issues or have suggestions for improvement please feel free to submit a pull request. Your contributions will br received and greatly appreciated.
 
 
