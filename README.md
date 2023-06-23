@@ -4,6 +4,14 @@ Check out my GitHub repository for a Google Drive clone! This project is a testa
 
 A Google Drive clone project built using HTML and CSS.
 
+# Table of contents
+* Installation
+* Usage
+* Technologies Used
+* Project Structure
+* Contributions
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/anjali-akuthota
@@ -15,12 +23,13 @@ A Google Drive clone project built using HTML and CSS.
 - Create, organize, and manage files and folders just like in Google Drive.
 - Upload files by clicking on the upload button and selecting the desired file.
 - Navigate through folders and subfolders with ease.
-- Enjoy a responsive and user-friendly interface.
+- Enjoy a responsive and user-friendly 
 
 ## Technologies Used
 
-- HTML
-- CSS
+The Google Drive Clone Project is built using the following technologies :-
+* HTML : Used for structuring the web pages and content.
+* CSS  : Used for styling the web pages and providing visual aesthetics.
 
 ## Project Structure
 
@@ -28,5 +37,8 @@ A Google Drive clone project built using HTML and CSS.
 - `style.css`: Stylesheet file
 ## Google Drive Clone 
 - Created with Sandbox
+
+# Contributions 
+- Contributions to this project are Welcome. If you encounter any issues or have suggestions for improvement please feel free to submit a pull request. Your contributions will br received and greatly appreciated.
 
 
